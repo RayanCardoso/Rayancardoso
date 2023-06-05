@@ -24,8 +24,8 @@ Olá, me chamo Rayan Cardoso 👋
   <img align="center" alt="Rayan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 </div>    
 <br>
-- 🔭 Estou trabalhando como FullStack. Os sistemas em que trabalho na empresa tem diferentes linguagens sendo o meu foco principal em C#, ASPNETCore, utilizando arquitetura DDD e seu Front-End em React, ajudo a corrigir funcionalidades em React Native para o Mobile e também ajudo outros desenvolvedores na manutençaõ de códigos em PHP.
-- 🌱 Estudando para C#, ASPNETCore e estrutura MVC
-- 📫 Entre em contato comigo através de meu email: rayancardoso40@gmail.com
+- 🔭 Estou trabalhando como FullStack. Os sistemas em que trabalho na empresa tem diferentes linguagens sendo o meu foco principal em C#, ASPNETCore, utilizando arquitetura DDD e seu Front-End em React, ajudo a corrigir funcionalidades em React Native para o Mobile e também ajudo outros desenvolvedores na manutençaõ de códigos em PHP. <br>
+- 🌱 Estudando para C#, ASPNETCore e estrutura MVC <br>
+- 📫 Entre em contato comigo através de meu email: rayancardoso40@gmail.com <br>
 - 😄 Pronouns: ele/dele
 

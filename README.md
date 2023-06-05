@@ -4,11 +4,11 @@ Olá, me chamo Rayan Cardoso 👋
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=RayanCardoso&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: radical)"
+  media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=RayanCardoso&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: radical), (prefers-color-scheme: radical)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=RayanCardoso&show_icons=true" />
 </picture>

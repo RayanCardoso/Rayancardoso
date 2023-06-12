@@ -18,10 +18,12 @@
 
 <h2>Status</h2>
 
-
 <!--Status-->
-    <img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RayanCardoso&show_icons=true&theme=tokyonight" alt="Souzzs Stats" />
-  
+<div style="display:block; width:100%">
+  <div>
+    <img height="180em" width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanCardoso&layout=compact&theme=tokyonight" />
+  </div>
+</div>
   
 
 
